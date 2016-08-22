@@ -1,4 +1,3 @@
-layout_spectrum: 0.22848937148228288
 typography_spectrum: 0.8367182908114046
 color:
   brandStrength: 0.046896901447325945
@@ -6,9 +5,11 @@ color:
   saturation: 0.9407527223229408
   rhythmicContrast: 0.9066988853737712
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+layout_spectrum: 0.22848937148228288
 name: Dale LaRue
+title: Dale LaRue
